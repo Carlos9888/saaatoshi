@@ -1,0 +1,4 @@
+[[headers]]
+  for = "/*"
+    [headers.values]
+    WWW-Authenticate = 'Basic realm="TukerCrypto", charset="UTF-8"'
